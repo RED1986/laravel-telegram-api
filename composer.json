@@ -8,13 +8,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Red1986\\LaravelTelegramApi\\": "src/"
+            "Red1986\\TelegramApi\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Red1986\\LaravelTelegramApi\\LaravelTelegramApiServiceProvider"
+                "Red1986\\TelegramApi\\TelegramApiServiceProvider"
             ]
         }
     }

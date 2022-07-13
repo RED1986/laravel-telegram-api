@@ -1,4 +1,4 @@
 <?php return [ 'modules' => [
-            'LaravelTelegramApi',
+            'TelegramApi',
         ],
     ];

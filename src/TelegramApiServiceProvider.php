@@ -2,17 +2,17 @@
 
 declare(strict_types=1);
 
-namespace Red1986\LaravelTelegramApi;
+namespace Red1986\TelegramApi;
 
 use Illuminate\Support\ServiceProvider;
 
 /**
  * @class LaravelTelegramApiServiceProvider
  */
-class LaravelTelegramApiServiceProvider extends ServiceProvider
+class TelegramApiServiceProvider extends ServiceProvider
 {
     /**
-     * @inheritdoc
+     * @inheritDoc
      */
     public function boot()
     {
