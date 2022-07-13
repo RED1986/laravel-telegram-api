@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace LaravelTelegramApi;
+namespace Red1986\LaravelTelegramApi;
 
 use Illuminate\Support\ServiceProvider;
 
